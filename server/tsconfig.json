@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "lib": ["ES2015"],
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules"]
+}
